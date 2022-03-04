@@ -11,6 +11,8 @@ Then created a table to scrape all the details of the remaining pages.
 
 For simplicity I changed the data type of required columns
 
+Then I extracted the .csv file.
+
 Challenges: -
 
 While extracting ratings and reviews I had to find a way out to seperate the numerical values from the string values so used split method and indexing.
